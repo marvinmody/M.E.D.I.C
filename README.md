@@ -1,4 +1,4 @@
-# MEDIC
+# M.E.D.I.C
 
 **Monitoring and Early Detection Infrastructure Crafter**
 
